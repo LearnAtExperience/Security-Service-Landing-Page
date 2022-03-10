@@ -20,6 +20,7 @@
 }
 
 :root {
+  --dark: #151b32;
   --myBlue: #2086a5;
   --myBlue2: #285dbd;
 }
@@ -179,7 +180,7 @@ body {
   width: 100%;
   text-align: center;
   font-family: 'Montserrat', sans-serif;
-  color: var(--dark2);
+  color: var(--dark);
   margin-bottom: 2rem;
   position: relative;
 }
@@ -189,7 +190,7 @@ body {
   position: absolute;
   width: 10%;
   height: 3px;
-  background-color: var(--dark2);
+  background-color: var(--dark);
   left: 45%;
   right: 45%;
   bottom: -4px;
