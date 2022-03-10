@@ -103,7 +103,7 @@ body {
 }
 
 .language-selector option {
-  background-color: var(--dark2);
+  background-color: var(--myBlue);
   color: white;
   cursor: pointer;
 }
